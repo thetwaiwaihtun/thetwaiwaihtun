@@ -36,7 +36,7 @@ A collection of ESP32-based IoT projects using sensors, actuators, Wi-Fi, and au
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/thet-wai-wai-htun-695617426/)
-- [Portfolio](https://thetwaiwaihtun.github.io/)
+- [Portfolio](https://thetwaiwaihtun.github.io/#contact)
 - [Instagram](https://www.instagram.com/langwii_85/)
 
 ---
